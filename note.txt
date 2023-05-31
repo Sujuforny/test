@@ -7,3 +7,4 @@ install file .deb : sudo dpkg -i ...
 ++++++++++++++extensions+++++++++++++
 1.compiz window effect
 2.vatil
+3.blur effect
